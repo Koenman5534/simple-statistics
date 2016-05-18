@@ -9,6 +9,7 @@ it is made from four php files:
    4. StatisticsPage.php - Contains html and css for some simple styling(this can be changed). This file is responsible for the display of the statistics data. It contains a simple but good looking graph made with Graph.js.
   
 Please remember that some variables and kinds of data will be in dutch since this will be used on a dutch website.
+And do not forget to fill in the database connection parameters.
 
 # Development 
 
