@@ -18,7 +18,7 @@ The development of this webapplication started out as a small project on my inte
 
 For this project i made use of the following:
 
-    1.html/css
-    2.Javascript/Jquery/JSON
-    3.PHP
-    4.MySQL Database server/Mysqli
+   1. html/css 
+   2. Javascript/Jquery/JSON
+   3. PHP
+   4. MySQL Database server/Mysqli
