@@ -1,5 +1,5 @@
 # simple-statistics
-This webapplication is a small and simpe statistics program that can be implemented in almost every site. 
+This webapplication is a small and simple statistics program that can be implemented in almost every site. 
 
 it is made from four php files:
 
