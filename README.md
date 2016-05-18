@@ -11,7 +11,7 @@ it is made from four php files:
 
 # Development 
 
-The development of this webapplication started out as a small project on my internship. I am still learning to program, but love to do it. Every time i learned something new in this projected i implemented it right away. Prepared statements for example.
+The development of this webapplication started out as a small project on my internship. I am still learning to program, but love to do it. Every time i learned something new in this project i implemented it right away. Prepared statements for example. I'll continue to improve myself and learn new tricks everyday.
 
 
 #what is used?
