@@ -8,6 +8,7 @@ it is made from four php files:
    3. CallData.php - Calls all the data from the database to use on the statistics page itself.
    4. StatisticsPage.php - Contains html and css for some simple styling(this can be changed). This file is responsible for the display of the statistics data. It contains a simple but good looking graph made with Graph.js.
   
+Please remember that some variables and kinds of data will be in dutch since this will be used on a dutch website.
 
 # Development 
 
@@ -22,3 +23,13 @@ For this project i made use of the following:
    2. Javascript/Jquery/JSON
    3. PHP
    4. MySQL Database server/Mysqli
+   
+#database
+
+The Program works on this database scheme:
+
+1. ip - INT UNSIGNED - NOT NULL - PK
+2. datum - DATE - NOT NULL      ('datum' means 'date' in dutch)
+3. Telling - INT - NOT NULL     ('Telling' means 'counting' in dutch)
+
+   
