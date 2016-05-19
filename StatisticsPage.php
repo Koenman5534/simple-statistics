@@ -1,24 +1,22 @@
 
+<script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.js"></script>
+</script>
 <!-- require the CallData file -->
 <?php require 'CallData.php';?>
 
 <!-- some simple CSS for easy use... This can be edited or removed -->
 <style>
-.vrapper {
+.wrapperStatic {
     padding-left: 40%;
 }
-.First .Second {}
 </style>
-<head><meta charset="UTF-8"></head>
-<div class="vrapper">
-<div class="First">
+<html>
+<div class="wrapperStatic">    
 <h3>Aantal Unieke bezoekers per maand</h3><br />
 <canvas id="Mycanvas" width="400" height="400"></canvas>
-</div>
-
-
+</html>
 <script>
  
 var ctx = document.getElementById("Mycanvas").getContext("2d");
